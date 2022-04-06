@@ -20,13 +20,13 @@ const icons = {
     name: 'ios-home'
   },
   LES: {
-    name: 'ios-people'
+    name: 'ios-heart-outline'
   },
   VOEC: {
-    name: 'list'
+    name: 'ios-heart-outline'
   },
   LNS: {
-    name: 'ios-card'
+    name: 'ios-heart-outline'
   }
 };
 
