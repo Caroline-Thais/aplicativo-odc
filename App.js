@@ -44,7 +44,6 @@ function App() {
         })  }
       >
 
-
           <Tab.Screen name="Home" component={Home} />
           <Tab.Screen name="VOEC" component={VOEC} />
           <Tab.Screen name="LES" component={LES} />
